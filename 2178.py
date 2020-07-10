@@ -18,5 +18,5 @@ while Queue: #BFS
 print(graph[N-1][M-1])
 
 #python이라 그런지 뭔지 모르겠지만 진짜 최대애ㅐ애애애애한 런타임을 줄여야하는 거 같다.
-# https://pacific-ocean.tistory.com/265 : path나 visited 리스트를 따로 만들어도 되겠지만, 데이터 타입을 이용해서 graph 하나로 끝냈다.
+#https://pacific-ocean.tistory.com/265 : path나 visited 리스트를 따로 만들어도 되겠지만, 데이터 타입을 이용해서 graph 하나로 끝냈다.
 #https://hongku.tistory.com/276 : input() 대신 sys.stdin.readline()을 사용한다.
